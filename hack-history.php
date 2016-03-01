@@ -9,7 +9,7 @@
  * @package           hacking_history_tools
  *
  * @wordpress-plugin
- * Plugin Name:       Moddified Hacking History Wordpress Toolkit
+ * Plugin Name:       Hacking History Wordpress Toolkit
  * Plugin URI:        http://hackinghistory.ca
  * Description:       Image Fade shortcode, and other commonly used code snippets
  * Version:           0.1
