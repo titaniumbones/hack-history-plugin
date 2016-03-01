@@ -9,11 +9,11 @@
  * @package           hacking_history_tools
  *
  * @wordpress-plugin
- * Plugin Name:       Moddified Hacking History Wordpress Toolkit
+ * Plugin Name:       Hacking History Wordpress Toolkit
  * Plugin URI:        http://hackinghistory.ca
  * Description:       Image Fade shortcode, and other commonly used code snippets
  * Version:           0.1
- * Author:            Matt Price & Ahmad Awais
+ * Author:            Matt Price via Ahmad Awais
  * Author URI:        http://matt.hackinghistory.ca/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt

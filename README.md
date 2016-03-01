@@ -17,6 +17,17 @@ I have entirely avoided adding new CSS classes. To apply styles to the overlay, 
 
 ``` scss
 div.time-machine-container {
+  position: relative;
+  .img {
+      max-width:100%;
+      width:100%;
+      height:100%;
+    }
+    .overlay {
+      position: absolute;
+      top:0;
+    }
+
   div.new {
     img {}
   }
